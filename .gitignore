@@ -2,3 +2,4 @@ api_config.json
 *.pyc
 __pycache__/pricechange.cpython-36.pyc
 __pycache__/pricegroup.cpython-36.pyc
+venv
